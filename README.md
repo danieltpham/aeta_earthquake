@@ -4,6 +4,10 @@ https://competition.aeta.io/
 ## Proposed Timeline
 
 - Week 1 (Feb): Getting to know the data
+  - Everyone to sign up on the website
+  - Download the data to inspect
+  - Decide on the collaboration workflow
+  - See if we can read the files into Python
 - Week 2 (Feb): Background research
 - Week 3 (Feb): EDA + Cleaning data (1)
 - Week 4 (Feb): Cleaning data (2)
