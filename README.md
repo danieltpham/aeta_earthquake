@@ -29,5 +29,6 @@ https://competition.aeta.io/
 - What statistical models can we use as a prior / input for the ML models?
 
 ## Useful links (everyone to contribute)
-- Past competition: https://aeta.io/competition-2020/
+- Past competition: [2020 Competition](https://aeta.io/competition-2020/)
+- Related Paper: [A Feature Engineering Framework for Short-term Earthquake Predition Based on AETA Data](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8785773&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzg3ODU3NzM=)
 
