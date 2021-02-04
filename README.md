@@ -31,4 +31,4 @@ https://competition.aeta.io/
 ## Useful links (everyone to contribute)
 - Past competition: [2020 Competition](https://aeta.io/competition-2020/)
 - Related Paper: [A Feature Engineering Framework for Short-term Earthquake Predition Based on AETA Data](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=8785773&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50Lzg3ODU3NzM=)
-
+- [This paper says that EM skewness & kurtosis may precede large earthquakes](https://link.springer.com/article/10.1007/s11069-016-2460-4)
